@@ -17,7 +17,7 @@ A **dynamic and interactive quiz application** that challenges users with exciti
 ![Home Page](https://github.com/ItsMeAreebaAmjad/QuizApp-React/blob/main/image1.png)  
 
 ### Subject Selection  
-![Subject Selection](screenshots/select-subject.png)  
+![Subject Selection](https://github.com/ItsMeAreebaAmjad/QuizApp-React/blob/main/image2.png)  
 
 ### Quiz Interface  
 ![Quiz Interface](screenshots/quiz-interface.png)  
