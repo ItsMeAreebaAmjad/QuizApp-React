@@ -20,7 +20,7 @@ A **dynamic and interactive quiz application** that challenges users with exciti
 ![Subject Selection](https://github.com/ItsMeAreebaAmjad/QuizApp-React/blob/main/image2.png)  
 
 ### Quiz Interface  
-![Quiz Interface](screenshots/quiz-interface.png)  
+![Quiz Interface](https://github.com/ItsMeAreebaAmjad/QuizApp-React/blob/main/image3.png)  
 
 ### Result Page  
 ![Result Page](screenshots/result.png)  
