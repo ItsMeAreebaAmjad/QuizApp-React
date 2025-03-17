@@ -41,7 +41,7 @@ Follow these steps to set up the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/quiz-master.git
+git clone https://github.com/ItsMeAreebaAmjad/QuizApp-React
 
 # Navigate to the project directory
 cd quiz-master
