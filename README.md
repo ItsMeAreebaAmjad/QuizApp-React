@@ -21,12 +21,10 @@ A **dynamic and interactive quiz application** that challenges users with exciti
 
 ### Quiz Interface  
 ![Quiz Interface](https://github.com/ItsMeAreebaAmjad/QuizApp-React/blob/main/image3.png)  
+![Quiz Interface Part2](https://github.com/ItsMeAreebaAmjad/QuizApp-React/blob/main/image4.png)
 
 ### Result Page  
 ![Result Page](screenshots/result.png)  
-
-### Mobile View  
-![Mobile View](screenshots/mobile-view.png)  
 
 ---
 
